@@ -1,1 +1,3 @@
-Alhamdulillah!
+git add .
+git commit -m "Ekhane apnar kotha likhben"
+git push
